@@ -10,3 +10,15 @@ D:\HighTech-Projects\LeetCodeQuestions\LeetCodeQuestions.Model\obj\Debug\net6.0\
 D:\HighTech-Projects\LeetCodeQuestions\LeetCodeQuestions.Model\obj\Debug\net6.0\refint\LeetCodeQuestions.Models.dll
 D:\HighTech-Projects\LeetCodeQuestions\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.pdb
 D:\HighTech-Projects\LeetCodeQuestions\LeetCodeQuestions.Model\obj\Debug\net6.0\ref\LeetCodeQuestions.Models.dll
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\bin\Debug\net6.0\LeetCodeQuestions.Models.deps.json
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\bin\Debug\net6.0\LeetCodeQuestions.Models.dll
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\bin\Debug\net6.0\LeetCodeQuestions.Models.pdb
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.csproj.AssemblyReference.cache
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.AssemblyInfoInputs.cache
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.AssemblyInfo.cs
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.csproj.CoreCompileInputs.cache
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.dll
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\refint\LeetCodeQuestions.Models.dll
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.pdb
+D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\ref\LeetCodeQuestions.Models.dll
