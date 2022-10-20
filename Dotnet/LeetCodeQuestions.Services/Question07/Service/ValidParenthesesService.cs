@@ -37,7 +37,11 @@ namespace LeetCodeQuestions.Services.Question07.Service
                     }
                 }
             }
-            return true;
+            if (stack.Count()==0)
+            {
+                return true;
+            }
+            return false;
         }
     }
 }

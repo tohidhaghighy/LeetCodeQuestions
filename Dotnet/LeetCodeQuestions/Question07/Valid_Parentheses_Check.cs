@@ -25,6 +25,7 @@ namespace LeetCodeQuestions.Question07
         [InlineData("(]",false)]
         [InlineData("[()[{()}]",true)]
         [InlineData("}(){}[]",false)]
+        [InlineData("[", false)]
         public async void Valid_Parentheses_Check_IsOk(string data,bool check)
         {
             // Arrange
