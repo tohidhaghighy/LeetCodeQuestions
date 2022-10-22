@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tohid-PC\\.nuget\\packages\\": {},
+    "C:\\Users\\t.haghighi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj",
+      "projectUniqueName": "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj",
       "projectName": "LeetCodeQuestions.Models",
-      "projectPath": "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj",
-      "packagesPath": "C:\\Users\\Tohid-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Model\\obj\\",
+      "projectPath": "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj",
+      "packagesPath": "C:\\Users\\t.haghighi\\.nuget\\packages\\",
+      "outputPath": "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tohid-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\t.haghighi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

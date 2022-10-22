@@ -22,3 +22,15 @@ D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\
 D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\refint\LeetCodeQuestions.Models.dll
 D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.pdb
 D:\HighTech-Projects\LeetCodeQuestions\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\ref\LeetCodeQuestions.Models.dll
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\bin\Debug\net6.0\LeetCodeQuestions.Models.deps.json
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\bin\Debug\net6.0\LeetCodeQuestions.Models.dll
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\bin\Debug\net6.0\LeetCodeQuestions.Models.pdb
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.csproj.AssemblyReference.cache
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.AssemblyInfoInputs.cache
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.AssemblyInfo.cs
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.csproj.CoreCompileInputs.cache
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.dll
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\refint\LeetCodeQuestions.Models.dll
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\LeetCodeQuestions.Models.pdb
+E:\TohidProject\LeetCodeQuestions-main\LeetCodeQuestions-main\Dotnet\LeetCodeQuestions.Model\obj\Debug\net6.0\ref\LeetCodeQuestions.Models.dll
