@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\t.haghighi\\.nuget\\packages\\": {},
+    "C:\\Users\\Tohid-PC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Services\\LeetCodeQuestions.Services.csproj",
+      "projectUniqueName": "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Services\\LeetCodeQuestions.Services.csproj",
       "projectName": "LeetCodeQuestions.Services",
-      "projectPath": "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Services\\LeetCodeQuestions.Services.csproj",
-      "packagesPath": "C:\\Users\\t.haghighi\\.nuget\\packages\\",
-      "outputPath": "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Services\\obj\\",
+      "projectPath": "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Services\\LeetCodeQuestions.Services.csproj",
+      "packagesPath": "C:\\Users\\Tohid-PC\\.nuget\\packages\\",
+      "outputPath": "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\t.haghighi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tohid-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +57,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj": {
-              "projectPath": "E:\\TohidProject\\LeetCodeQuestions-main\\LeetCodeQuestions-main\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj"
+            "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj": {
+              "projectPath": "D:\\HighTech-Projects\\LeetCodeQuestions\\Dotnet\\LeetCodeQuestions.Model\\LeetCodeQuestions.Models.csproj"
             }
           }
         }
