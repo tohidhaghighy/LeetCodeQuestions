@@ -10,4 +10,9 @@
     <ProjectReference Include="..\LeetCodeQuestions.Model\LeetCodeQuestions.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Question12\Contract\" />
+    <Folder Include="Question12\Service\" />
+  </ItemGroup>
+
 </Project>
